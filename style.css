@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header.Mainheader {
+  text-align: center;
+  
+}
+
+nav > a {
+  background-color: grey;
+  padding: 10px;
+}
+
+section.content {
+  margin: auto;
+  text-align: center
+}
+
+section#details {
+  width: 100%;
+  background-color: lawngreen;
+  overflow: hidden;
+}
+
+.details {
+  width: 20%;
+  margin: auto;
+  padding: 20px;
+  float: left;
+  text-align: center;
+  background-color: antiquewhite;
+
+}
+
+
+
+
+
